@@ -1,0 +1,29 @@
+# Vivado project / build outputs
+*.xpr
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.dcp
+*.bit
+*.bin
+*.ltx
+*.rpt
+*.wcfg
+.Xil/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.gen/
+vivado*.backup*
+xsim.dir/
+webtalk*
+
+# OS / editor
+Thumbs.db
+.DS_Store
+*.swp
